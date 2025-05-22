@@ -5,6 +5,7 @@ This is the NNDIP Technical Assignment requested. Only main assignment was done.
 
 ## CI/CD visual diagram considerations:
 The visual diagram is a simplify version. Deployment of the application is only reflected when release is created. For automated acceptance test and user acceptance test the solution must be deployed somewhere in order to perform the tests but to keep the visual diagram as simple as possible this part was intentionally omitted.
+You can find the visual diagram in this repository [NN_demo_CICD.pdf](https://github.com/pacmora/nn_demo/blob/main/docs/NN_demo_CICD.pdf)
 
 ## Deployment considerations:
 There are two files:
